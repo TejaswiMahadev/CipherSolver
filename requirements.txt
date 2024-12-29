@@ -1,10 +1,10 @@
 streamlit==1.25.0
 streamlit-option-menu==0.3.2
-streamlit-card==0.2.1
+streamlit-card==1.0.2 
 pillow==9.5.0
 matplotlib==3.8.0
 plotly==5.15.0
 pandas==2.1.0
 wordcloud==1.9.2
 spacy==3.6.0
-nltk==3.8.1
+nltk==3.8.
