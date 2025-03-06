@@ -35,16 +35,20 @@ This is a cryptography tool built using Streamlit, designed to help users encryp
 - Rail Fence Cipher: A transposition cipher that arranges text in a zigzag pattern.
 - Simple Columnar Transposition: A method where text is written in columns and then rearranged.
   
+  
 **Frequency Analysis**
 - Analyze the frequency of individual letters, digraphs (pairs of letters), and trigraphs (triplets of letters) in a given text.
 - Visualize the results using bar charts, pie charts, and word clouds.
+  
   
 **Anagram Solver**
 - Generate Anagrams: Given a word or phrase, generate all possible anagrams.
 - Check Anagram Pair: Check if two given words or phrases are anagrams of each other.
   
+  
 **Synonyms & Antonyms**
 - WordNet Synonyms & Antonyms: Given a word, retrieve a list of its synonyms and antonyms using the WordNet corpus from NLTK.
+  
 
 ## Contributing
 Feel free to fork the repository, make improvements, and create pull requests. Any suggestions and improvements are welcome.
